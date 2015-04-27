@@ -17,7 +17,10 @@ Javascript <br>
 
 
 ##Use and Editing
-To use the app, clone the repository. In the top level of the project folder, click on book.html and open it in your web browser. 
+To use the app, <br>
+1. Clone the repository. `git clone https://github.com/k-giardchase/address_book_js.git`<br>
+2. Change directories into the folder `cd address_book_js`<br>
+3. In the top level of the project folder, open book.html in your web browser.
 
 
 ##Copyright (c) 2015 Kyle Giard-Chase
